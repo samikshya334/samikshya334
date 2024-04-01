@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samikshya334&theme=tokyonight)](https://github.com/samikshya334/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=samikshya334)](https://git.io/streak-stats)
-<h1>Languages and Tools</h1>
+Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/tree/master/icons/javascript"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
