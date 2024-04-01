@@ -6,7 +6,7 @@
 <h1>Languages and Tools</h1>
 <p><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/javascript"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
