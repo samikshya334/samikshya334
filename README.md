@@ -17,5 +17,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 </p>
 
