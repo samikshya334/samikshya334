@@ -12,7 +12,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"  title="Asp.NetCore" alt="CSS" width="40" height="40"/>&nbsp;
